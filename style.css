@@ -4,6 +4,19 @@
     src: url('./fonts/Poppins/Poppins-Regular.ttf');
 }
 
+
+
+@media only screen and (max-width: 600px) {
+   
+
+    #carouselExampleCaptions{
+
+        height: 200px !important;
+
+    }
+
+  }
+
 *{
 
     font-family: 'mary-poppins' !important;
@@ -292,7 +305,7 @@ transform: scale(1);
     height: 420px;
 border-top-left-radius: 60px;
 background-image: url('./img/2178912-image-1584559620.jpg');
-background-size: contain;
+background-size: cover;
 background-repeat: no-repeat;
 
 
