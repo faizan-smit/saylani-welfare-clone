@@ -293,6 +293,7 @@ transform: scale(1);
 border-top-left-radius: 60px;
 background-image: url('./img/2178912-image-1584559620.jpg');
 background-size: contain;
+background-repeat: no-repeat;
 
 
     /* object-fit: contain; */
