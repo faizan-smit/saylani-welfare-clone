@@ -605,6 +605,14 @@ margin-top: 5px;
     
     }
 
+    
+    .btngroup-b2:hover{
+
+        transform: scale(1.1);
+    
+    }
+    
+
     .btngroup-b3{
 
         height: 54px;
@@ -624,6 +632,13 @@ margin-top: 5px;
         
         }
 
+        .btngroup-b3:hover{
+
+            transform: scale(1.1);
+        
+        }
+        
+
         .btngroup-b4{
 
             height: 54px !important;
@@ -641,6 +656,13 @@ margin-top: 5px;
             margin-left: 10px;
             
             }
+
+            .btngroup-b4:hover{
+
+                transform: scale(1.1);
+            
+            }
+            
 
 
             .btngroup-b5{

@@ -304,6 +304,7 @@ flex-wrap: wrap !important;
 
     width: 100%;
     border: none;
+    padding: 0% !important;
 
 }
 
@@ -313,6 +314,8 @@ flex-wrap: wrap !important;
     height: 540px;
     border: 1px solid #f0fcda;
     border-radius: 2px;
+    margin: 0% !important;
+    padding: 0% !important;
 
 }
 
