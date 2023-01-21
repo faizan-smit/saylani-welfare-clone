@@ -1,0 +1,30 @@
+--------------------------
+REPOSITORY LINK
+--------------------------
+
+
+https://github.com/faizan-smit/saylani-welfare-clone
+
+
+--------------------------
+GITHUB HOSTING LINK
+--------------------------
+
+
+https://faizan-smit.github.io/saylani-welfare-clone/
+
+
+--------------------------
+FIREBASE LINK
+--------------------------
+
+
+https://saylani-faizan.web.app/
+https://saylani-faizan.firebaseapp.com/
+
+
+--------------------------
+NETLIFY LINK
+--------------------------
+
+https://faizansaylani.netlify.app/
